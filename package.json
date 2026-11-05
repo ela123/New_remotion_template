@@ -1,0 +1,49 @@
+{
+  "name": "remotion-intro-captioner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "chunk": "tsx scripts/chunk.ts",
+    "analyze": "tsx scripts/analyze.ts",
+    "analyze:srt": "tsx scripts/analyze-srt.ts",
+    "sample": "tsx scripts/make-sample.ts",
+    "proxy": "tsx scripts/make-proxy.ts",
+    "srt:fit": "tsx scripts/srt-fit.ts",
+    "srt:check": "tsx scripts/srt-check.ts",
+    "transcribe": "tsx scripts/transcribe.ts",
+    "auto": "npm run transcribe && npm run srt:fit && npm run analyze",
+    "batch": "tsx scripts/batch.ts",
+    "palette": "tsx scripts/extract-palette.ts",
+    "preview": "remotion render LayeredCaption out/preview.mp4 --scale=0.5 --props=./props/preview.json",
+    "render": "remotion render LayeredCaption out/intro.mp4 --codec=h264 --crf=17 --props=./props/final.json",
+    "still": "remotion still LayeredCaption out/frame.png --props=./props/final.json",
+    "test": "vitest run",
+    "test:e2e": "vitest run --config tests/e2e/vitest.config.ts",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm test"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "@remotion/google-fonts": "4.0.532",
+    "@remotion/layout-utils": "4.0.532",
+    "@remotion/media-parser": "4.0.532",
+    "@remotion/noise": "4.0.532",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@remotion/install-whisper-cpp": "4.0.532",
+    "@types/node": "22.20.5",
+    "@types/react": "18.3.31",
+    "dotenv": "18.0.5",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vitest": "4.1.11"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules
+out
+.env
+*.mp4
+whisper.cpp
+*.wav
+*.bin

@@ -1,0 +1,449 @@
+{
+  "words": [
+    {
+      "text": "I",
+      "start": 0.17,
+      "end": 0.17
+    },
+    {
+      "text": "don't",
+      "start": 0.18,
+      "end": 1
+    },
+    {
+      "text": "get",
+      "start": 1.07,
+      "end": 1.33
+    },
+    {
+      "text": "many",
+      "start": 1.37,
+      "end": 1.72
+    },
+    {
+      "text": "of",
+      "start": 1.73,
+      "end": 1.93
+    },
+    {
+      "text": "those.",
+      "start": 1.93,
+      "end": 2.68
+    },
+    {
+      "text": "And",
+      "start": 2.68,
+      "end": 2.91
+    },
+    {
+      "text": "I",
+      "start": 2.92,
+      "end": 2.99
+    },
+    {
+      "text": "need",
+      "start": 3,
+      "end": 3.32
+    },
+    {
+      "text": "to,",
+      "start": 3.33,
+      "end": 3.68
+    },
+    {
+      "text": "my",
+      "start": 3.68,
+      "end": 3.79
+    },
+    {
+      "text": "honches,",
+      "start": 3.79,
+      "end": 4.3
+    },
+    {
+      "text": "I",
+      "start": 4.3,
+      "end": 4.34
+    },
+    {
+      "text": "need",
+      "start": 4.34,
+      "end": 4.55
+    },
+    {
+      "text": "to",
+      "start": 4.55,
+      "end": 4.64
+    },
+    {
+      "text": "learn",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "text": "to",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "text": "get",
+      "start": 5.2,
+      "end": 6.44
+    },
+    {
+      "text": "more",
+      "start": 6.44,
+      "end": 6.64
+    },
+    {
+      "text": "of",
+      "start": 6.64,
+      "end": 6.72
+    },
+    {
+      "text": "those.",
+      "start": 6.72,
+      "end": 6.88
+    },
+    {
+      "text": "And",
+      "start": 6.97,
+      "end": 7.03
+    },
+    {
+      "text": "when",
+      "start": 7.03,
+      "end": 7.24
+    },
+    {
+      "text": "I",
+      "start": 7.24,
+      "end": 7.29
+    },
+    {
+      "text": "get",
+      "start": 7.29,
+      "end": 7.41
+    },
+    {
+      "text": "them,",
+      "start": 7.45,
+      "end": 7.75
+    },
+    {
+      "text": "I",
+      "start": 7.75,
+      "end": 7.77
+    },
+    {
+      "text": "can",
+      "start": 7.82,
+      "end": 7.95
+    },
+    {
+      "text": "be",
+      "start": 7.95,
+      "end": 8.05
+    },
+    {
+      "text": "better",
+      "start": 8.05,
+      "end": 8.36
+    },
+    {
+      "text": "at",
+      "start": 8.36,
+      "end": 8.46
+    },
+    {
+      "text": "them.",
+      "start": 8.46,
+      "end": 9.11
+    },
+    {
+      "text": "Because",
+      "start": 9.11,
+      "end": 10.02
+    },
+    {
+      "text": "I",
+      "start": 10.02,
+      "end": 10.15
+    },
+    {
+      "text": "have",
+      "start": 10.15,
+      "end": 10.67
+    },
+    {
+      "text": "a",
+      "start": 10.67,
+      "end": 10.8
+    },
+    {
+      "text": "love",
+      "start": 10.8,
+      "end": 11.32
+    },
+    {
+      "text": "of",
+      "start": 11.32,
+      "end": 11.6
+    },
+    {
+      "text": "accomplishment",
+      "start": 11.6,
+      "end": 12.56
+    },
+    {
+      "text": "to",
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "text": "even",
+      "start": 12.8,
+      "end": 13.12
+    },
+    {
+      "text": "feel",
+      "start": 13.12,
+      "end": 13.45
+    },
+    {
+      "text": "a",
+      "start": 13.55,
+      "end": 13.67
+    },
+    {
+      "text": "significance",
+      "start": 13.69,
+      "end": 14.97
+    },
+    {
+      "text": "for",
+      "start": 15.02,
+      "end": 15.36
+    },
+    {
+      "text": "the",
+      "start": 15.36,
+      "end": 15.69
+    },
+    {
+      "text": "day.",
+      "start": 15.69,
+      "end": 16.35
+    },
+    {
+      "text": "I",
+      "start": 16.35,
+      "end": 16.46
+    },
+    {
+      "text": "sleep",
+      "start": 16.46,
+      "end": 17.02
+    },
+    {
+      "text": "better.",
+      "start": 17.02,
+      "end": 18.02
+    },
+    {
+      "text": "When",
+      "start": 18.02,
+      "end": 18.47
+    },
+    {
+      "text": "I",
+      "start": 18.47,
+      "end": 18.58
+    },
+    {
+      "text": "have",
+      "start": 18.58,
+      "end": 19.03
+    },
+    {
+      "text": "a",
+      "start": 19.03,
+      "end": 19.14
+    },
+    {
+      "text": "purpose",
+      "start": 19.14,
+      "end": 19.99
+    },
+    {
+      "text": "and",
+      "start": 20.02,
+      "end": 20.13
+    },
+    {
+      "text": "I",
+      "start": 20.17,
+      "end": 20.24
+    },
+    {
+      "text": "went",
+      "start": 20.24,
+      "end": 20.4
+    },
+    {
+      "text": "after",
+      "start": 20.4,
+      "end": 20.71
+    },
+    {
+      "text": "something,",
+      "start": 20.72,
+      "end": 20.96
+    },
+    {
+      "text": "even",
+      "start": 20.96,
+      "end": 21.28
+    },
+    {
+      "text": "if",
+      "start": 21.28,
+      "end": 21.44
+    },
+    {
+      "text": "it's",
+      "start": 21.44,
+      "end": 21.76
+    },
+    {
+      "text": "just",
+      "start": 21.76,
+      "end": 22.08
+    },
+    {
+      "text": "building",
+      "start": 22.08,
+      "end": 22.73
+    },
+    {
+      "text": "something.",
+      "start": 22.73,
+      "end": 23.69
+    },
+    {
+      "text": "And",
+      "start": 23.69,
+      "end": 23.94
+    },
+    {
+      "text": "I'm",
+      "start": 23.94,
+      "end": 24.18
+    },
+    {
+      "text": "still",
+      "start": 24.18,
+      "end": 24.59
+    },
+    {
+      "text": "learning.",
+      "start": 24.59,
+      "end": 25.48
+    },
+    {
+      "text": "I've",
+      "start": 25.48,
+      "end": 25.8
+    },
+    {
+      "text": "got",
+      "start": 25.8,
+      "end": 26.04
+    },
+    {
+      "text": "to",
+      "start": 26.04,
+      "end": 26.2
+    },
+    {
+      "text": "remind",
+      "start": 26.2,
+      "end": 26.8
+    },
+    {
+      "text": "myself",
+      "start": 26.8,
+      "end": 27.2
+    },
+    {
+      "text": "now,",
+      "start": 27.2,
+      "end": 27.44
+    },
+    {
+      "text": "I",
+      "start": 27.44,
+      "end": 27.52
+    },
+    {
+      "text": "used",
+      "start": 27.52,
+      "end": 27.91
+    },
+    {
+      "text": "to",
+      "start": 27.91,
+      "end": 28.09
+    },
+    {
+      "text": "be",
+      "start": 28.1,
+      "end": 28.29
+    },
+    {
+      "text": "better",
+      "start": 28.29,
+      "end": 28.85
+    },
+    {
+      "text": "at",
+      "start": 28.85,
+      "end": 29.04
+    },
+    {
+      "text": "it",
+      "start": 29.05,
+      "end": 29.23
+    },
+    {
+      "text": "actually,",
+      "start": 29.23,
+      "end": 30.15
+    },
+    {
+      "text": "to",
+      "start": 30.16,
+      "end": 30.35
+    },
+    {
+      "text": "just",
+      "start": 30.35,
+      "end": 30.73
+    },
+    {
+      "text": "go",
+      "start": 30.73,
+      "end": 30.92
+    },
+    {
+      "text": "daydream.",
+      "start": 30.92,
+      "end": 31.99
+    },
+    {
+      "text": "Mosey.",
+      "start": 31.99,
+      "end": 32.8
+    }
+  ]
+}

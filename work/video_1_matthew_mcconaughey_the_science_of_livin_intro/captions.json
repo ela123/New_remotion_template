@@ -1,0 +1,1076 @@
+{
+  "chunks": [
+    {
+      "start": 0.04,
+      "end": 1.53,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "But",
+              "start": 0.04,
+              "end": 0.27,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "if",
+              "start": 0.27,
+              "end": 0.45,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "I",
+              "start": 0.45,
+              "end": 0.54,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "have",
+              "start": 0.54,
+              "end": 0.89,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "one",
+              "start": 0.89,
+              "end": 1.17,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "full",
+              "start": 1.26,
+              "end": 1.53,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-right"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 1.53,
+      "end": 2.2,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "day",
+              "start": 1.53,
+              "end": 1.79,
+              "role": "hero",
+              "effect": "highlight-wipe",
+              "entrance": "scale-pop"
+            },
+            {
+              "text": "off,",
+              "start": 1.79,
+              "end": 2.2,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 2.4,
+      "end": 5.16,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "I",
+              "start": 2.4,
+              "end": 2.47,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "will",
+              "start": 2.47,
+              "end": 3.43,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "get",
+              "start": 3.59,
+              "end": 4.72,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-right"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "my",
+              "start": 4.72,
+              "end": 4.83,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "nine",
+              "start": 4.84,
+              "end": 5,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "and",
+              "start": 5,
+              "end": 5.16,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 5.16,
+      "end": 6.27,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "a",
+              "start": 5.16,
+              "end": 5.2,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "half",
+              "start": 5.2,
+              "end": 5.31,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "hour",
+              "start": 5.4,
+              "end": 5.71,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-right"
+            },
+            {
+              "text": "sleep,",
+              "start": 5.72,
+              "end": 6.27,
+              "role": "hero",
+              "effect": "glow-pulse",
+              "entrance": "mask-reveal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 6.27,
+      "end": 7.72,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "which",
+              "start": 6.27,
+              "end": 6.67,
+              "role": "accent",
+              "effect": "underline-draw",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "is",
+              "start": 6.67,
+              "end": 6.83,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slice-reveal"
+            },
+            {
+              "text": "preferred,",
+              "start": 6.83,
+              "end": 7.72,
+              "role": "hero",
+              "effect": "color-flash",
+              "entrance": "rotate-in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 7.72,
+      "end": 9.22,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "which",
+              "start": 7.72,
+              "end": 7.88,
+              "role": "accent",
+              "effect": "squiggle-draw",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "means",
+              "start": 7.88,
+              "end": 8.11,
+              "role": "accent",
+              "effect": "strike-through",
+              "entrance": "blur-in"
+            },
+            {
+              "text": "maybe",
+              "start": 8.12,
+              "end": 8.49,
+              "role": "hero",
+              "effect": "highlight-wipe",
+              "entrance": "rotate-in"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "I",
+              "start": 8.49,
+              "end": 8.56,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "sleep",
+              "start": 8.56,
+              "end": 8.93,
+              "role": "accent",
+              "effect": "underline-draw",
+              "entrance": "blur-in"
+            },
+            {
+              "text": "till",
+              "start": 8.93,
+              "end": 9.22,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-right"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 9.22,
+      "end": 10.35,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "9.30.",
+              "start": 9.22,
+              "end": 10.35,
+              "role": "hero",
+              "effect": "count-up",
+              "entrance": "scale-pop"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 10.37,
+      "end": 11.48,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "I'll",
+              "start": 10.37,
+              "end": 10.77,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "get",
+              "start": 10.77,
+              "end": 11.08,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "up,",
+              "start": 11.08,
+              "end": 11.48,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 11.48,
+      "end": 13.11,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "I'll",
+              "start": 11.48,
+              "end": 11.89,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "take",
+              "start": 11.89,
+              "end": 12.3,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "my",
+              "start": 12.3,
+              "end": 12.5,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "time,",
+              "start": 12.5,
+              "end": 13.11,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 13.11,
+      "end": 14.08,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "mosey",
+              "start": 13.11,
+              "end": 13.68,
+              "role": "accent",
+              "effect": "squiggle-draw",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "down.",
+              "start": 13.68,
+              "end": 14.08,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 14.08,
+      "end": 15.14,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "If",
+              "start": 14.08,
+              "end": 14.2,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "Camilla",
+              "start": 14.21,
+              "end": 14.68,
+              "role": "hero",
+              "effect": "glow-pulse",
+              "entrance": "letter-stagger"
+            },
+            {
+              "text": "was",
+              "start": 14.68,
+              "end": 14.88,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "up,",
+              "start": 14.88,
+              "end": 15.14,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "typewriter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 15.14,
+      "end": 16.44,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "my",
+              "start": 15.14,
+              "end": 15.17,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "wife",
+              "start": 15.29,
+              "end": 15.54,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "was",
+              "start": 15.54,
+              "end": 15.74,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "up",
+              "start": 15.74,
+              "end": 15.95,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "before",
+              "start": 15.97,
+              "end": 16.22,
+              "role": "accent",
+              "effect": "color-flash",
+              "entrance": "blur-in"
+            },
+            {
+              "text": "me.",
+              "start": 16.22,
+              "end": 16.44,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 16.44,
+      "end": 19.09,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "She'll",
+              "start": 16.44,
+              "end": 17.14,
+              "role": "accent",
+              "effect": "strike-through",
+              "entrance": "blur-in"
+            },
+            {
+              "text": "have",
+              "start": 17.14,
+              "end": 17.6,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slice-reveal"
+            },
+            {
+              "text": "left",
+              "start": 17.6,
+              "end": 18.06,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-right"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "me",
+              "start": 18.06,
+              "end": 18.29,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "a",
+              "start": 18.29,
+              "end": 18.4,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slice-reveal"
+            },
+            {
+              "text": "matcha",
+              "start": 18.4,
+              "end": 19.09,
+              "role": "hero",
+              "effect": "highlight-wipe",
+              "entrance": "rotate-in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 19.09,
+      "end": 19.84,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "tea.",
+              "start": 19.09,
+              "end": 19.84,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 19.84,
+      "end": 21.09,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "If",
+              "start": 19.84,
+              "end": 19.98,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "she",
+              "start": 19.98,
+              "end": 20.19,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slice-reveal"
+            },
+            {
+              "text": "wasn't",
+              "start": 20.19,
+              "end": 20.6,
+              "role": "hero",
+              "effect": "glow-pulse",
+              "entrance": "rotate-in"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "or",
+              "start": 20.73,
+              "end": 20.75,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "had",
+              "start": 20.75,
+              "end": 20.96,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slice-reveal"
+            },
+            {
+              "text": "to",
+              "start": 20.96,
+              "end": 21.09,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 21.09,
+      "end": 22.16,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "rush",
+              "start": 21.09,
+              "end": 21.38,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "out",
+              "start": 21.38,
+              "end": 21.59,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "the",
+              "start": 21.59,
+              "end": 21.79,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "door,",
+              "start": 21.81,
+              "end": 22.16,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 22.16,
+      "end": 23.29,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "I'll",
+              "start": 22.16,
+              "end": 22.36,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "go",
+              "start": 22.36,
+              "end": 22.46,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "make",
+              "start": 22.46,
+              "end": 22.67,
+              "role": "hero",
+              "effect": "impact-punch",
+              "entrance": "rotate-in"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "that",
+              "start": 22.67,
+              "end": 22.87,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "tea",
+              "start": 22.88,
+              "end": 23.03,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "while",
+              "start": 23.03,
+              "end": 23.29,
+              "role": "hero",
+              "effect": "color-flash",
+              "entrance": "rotate-in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 23.29,
+      "end": 24.38,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "the",
+              "start": 23.29,
+              "end": 23.44,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "water's",
+              "start": 23.44,
+              "end": 23.8,
+              "role": "accent",
+              "effect": "underline-draw",
+              "entrance": "blur-in"
+            },
+            {
+              "text": "boiling.",
+              "start": 23.8,
+              "end": 24.38,
+              "role": "hero",
+              "effect": "highlight-wipe",
+              "entrance": "rotate-in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 24.38,
+      "end": 27.04,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "I'll",
+              "start": 24.38,
+              "end": 24.88,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "go",
+              "start": 24.88,
+              "end": 25.13,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "probably",
+              "start": 25.13,
+              "end": 26.15,
+              "role": "hero",
+              "effect": "glow-pulse",
+              "entrance": "rotate-in"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "do",
+              "start": 26.15,
+              "end": 26.4,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "eight",
+              "start": 26.4,
+              "end": 27.04,
+              "role": "hero",
+              "effect": "color-flash",
+              "entrance": "letter-stagger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 27.04,
+      "end": 29.6,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "pieces",
+              "start": 27.04,
+              "end": 27.84,
+              "role": "accent",
+              "effect": "squiggle-draw",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "of",
+              "start": 27.84,
+              "end": 28.16,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slice-reveal"
+            },
+            {
+              "text": "a",
+              "start": 28.16,
+              "end": 28.32,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "puzzle,",
+              "start": 28.32,
+              "end": 29.6,
+              "role": "hero",
+              "effect": "highlight-wipe",
+              "entrance": "mask-reveal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 29.6,
+      "end": 30.84,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "which",
+              "start": 29.6,
+              "end": 29.76,
+              "role": "accent",
+              "effect": "strike-through",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "is",
+              "start": 29.76,
+              "end": 29.88,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slice-reveal"
+            },
+            {
+              "text": "a",
+              "start": 29.88,
+              "end": 29.94,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "wonderful",
+              "start": 29.94,
+              "end": 30.47,
+              "role": "hero",
+              "effect": "glow-pulse",
+              "entrance": "scale-pop"
+            },
+            {
+              "text": "way.",
+              "start": 30.47,
+              "end": 30.84,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 30.84,
+      "end": 32.48,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "I",
+              "start": 30.84,
+              "end": 30.92,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "love",
+              "start": 30.92,
+              "end": 31.25,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            },
+            {
+              "text": "starting",
+              "start": 31.25,
+              "end": 31.91,
+              "role": "hero",
+              "effect": "color-flash",
+              "entrance": "rotate-in"
+            }
+          ]
+        },
+        {
+          "words": [
+            {
+              "text": "my",
+              "start": 31.91,
+              "end": 32.07,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "day",
+              "start": 32.07,
+              "end": 32.32,
+              "role": "hero",
+              "effect": "outline-fill",
+              "entrance": "letter-stagger"
+            },
+            {
+              "text": "on",
+              "start": 32.32,
+              "end": 32.48,
+              "role": "connector",
+              "effect": "none",
+              "entrance": "slide-up"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 32.48,
+      "end": 33.3,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "that",
+              "start": 32.48,
+              "end": 32.81,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "mask-reveal"
+            },
+            {
+              "text": "slow,",
+              "start": 32.81,
+              "end": 33.3,
+              "role": "normal",
+              "effect": "float-breathe",
+              "entrance": "slide-left"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 33.3,
+      "end": 36.15,
+      "lines": [
+        {
+          "words": [
+            {
+              "text": "simple",
+              "start": 33.3,
+              "end": 33.84,
+              "role": "accent",
+              "effect": "underline-draw",
+              "entrance": "slide-up"
+            },
+            {
+              "text": "eight",
+              "start": 33.84,
+              "end": 35.04,
+              "role": "accent",
+              "effect": "squiggle-draw",
+              "entrance": "blur-in"
+            },
+            {
+              "text": "little",
+              "start": 35.04,
+              "end": 35.68,
+              "role": "accent",
+              "effect": "strike-through",
+              "entrance": "tracking-collapse"
+            },
+            {
+              "text": "connections.",
+              "start": 35.68,
+              "end": 36.15,
+              "role": "hero",
+              "effect": "highlight-wipe",
+              "entrance": "mask-reveal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

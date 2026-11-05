@@ -1,0 +1,8 @@
+{
+  "quality": "preview",
+  "style": "bold-energetic",
+  "safeMargin": 0.08,
+  "offsetY": 0,
+  "maxWordsPerLine": 5,
+  "maxLinesPerChunk": 3
+}

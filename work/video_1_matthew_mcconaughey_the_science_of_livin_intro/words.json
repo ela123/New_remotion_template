@@ -1,0 +1,499 @@
+{
+  "words": [
+    {
+      "text": "But",
+      "start": 0.04,
+      "end": 0.27
+    },
+    {
+      "text": "if",
+      "start": 0.27,
+      "end": 0.45
+    },
+    {
+      "text": "I",
+      "start": 0.45,
+      "end": 0.54
+    },
+    {
+      "text": "have",
+      "start": 0.54,
+      "end": 0.89
+    },
+    {
+      "text": "one",
+      "start": 0.89,
+      "end": 1.17
+    },
+    {
+      "text": "full",
+      "start": 1.26,
+      "end": 1.53
+    },
+    {
+      "text": "day",
+      "start": 1.53,
+      "end": 1.79
+    },
+    {
+      "text": "off,",
+      "start": 1.79,
+      "end": 2.2
+    },
+    {
+      "text": "I",
+      "start": 2.4,
+      "end": 2.47
+    },
+    {
+      "text": "will",
+      "start": 2.47,
+      "end": 3.43
+    },
+    {
+      "text": "get",
+      "start": 3.59,
+      "end": 4.72
+    },
+    {
+      "text": "my",
+      "start": 4.72,
+      "end": 4.83
+    },
+    {
+      "text": "nine",
+      "start": 4.84,
+      "end": 5
+    },
+    {
+      "text": "and",
+      "start": 5,
+      "end": 5.16
+    },
+    {
+      "text": "a",
+      "start": 5.16,
+      "end": 5.2
+    },
+    {
+      "text": "half",
+      "start": 5.2,
+      "end": 5.31
+    },
+    {
+      "text": "hour",
+      "start": 5.4,
+      "end": 5.71
+    },
+    {
+      "text": "sleep,",
+      "start": 5.72,
+      "end": 6.27
+    },
+    {
+      "text": "which",
+      "start": 6.27,
+      "end": 6.67
+    },
+    {
+      "text": "is",
+      "start": 6.67,
+      "end": 6.83
+    },
+    {
+      "text": "preferred,",
+      "start": 6.83,
+      "end": 7.72
+    },
+    {
+      "text": "which",
+      "start": 7.72,
+      "end": 7.88
+    },
+    {
+      "text": "means",
+      "start": 7.88,
+      "end": 8.11
+    },
+    {
+      "text": "maybe",
+      "start": 8.12,
+      "end": 8.49
+    },
+    {
+      "text": "I",
+      "start": 8.49,
+      "end": 8.56
+    },
+    {
+      "text": "sleep",
+      "start": 8.56,
+      "end": 8.93
+    },
+    {
+      "text": "till",
+      "start": 8.93,
+      "end": 9.22
+    },
+    {
+      "text": "9.30.",
+      "start": 9.22,
+      "end": 10.35
+    },
+    {
+      "text": "I'll",
+      "start": 10.37,
+      "end": 10.77
+    },
+    {
+      "text": "get",
+      "start": 10.77,
+      "end": 11.08
+    },
+    {
+      "text": "up,",
+      "start": 11.08,
+      "end": 11.48
+    },
+    {
+      "text": "I'll",
+      "start": 11.48,
+      "end": 11.89
+    },
+    {
+      "text": "take",
+      "start": 11.89,
+      "end": 12.3
+    },
+    {
+      "text": "my",
+      "start": 12.3,
+      "end": 12.5
+    },
+    {
+      "text": "time,",
+      "start": 12.5,
+      "end": 13.11
+    },
+    {
+      "text": "mosey",
+      "start": 13.11,
+      "end": 13.68
+    },
+    {
+      "text": "down.",
+      "start": 13.68,
+      "end": 14.08
+    },
+    {
+      "text": "If",
+      "start": 14.08,
+      "end": 14.2
+    },
+    {
+      "text": "Camilla",
+      "start": 14.21,
+      "end": 14.68
+    },
+    {
+      "text": "was",
+      "start": 14.68,
+      "end": 14.88
+    },
+    {
+      "text": "up,",
+      "start": 14.88,
+      "end": 15.14
+    },
+    {
+      "text": "my",
+      "start": 15.14,
+      "end": 15.17
+    },
+    {
+      "text": "wife",
+      "start": 15.29,
+      "end": 15.54
+    },
+    {
+      "text": "was",
+      "start": 15.54,
+      "end": 15.74
+    },
+    {
+      "text": "up",
+      "start": 15.74,
+      "end": 15.95
+    },
+    {
+      "text": "before",
+      "start": 15.97,
+      "end": 16.22
+    },
+    {
+      "text": "me.",
+      "start": 16.22,
+      "end": 16.44
+    },
+    {
+      "text": "She'll",
+      "start": 16.44,
+      "end": 17.14
+    },
+    {
+      "text": "have",
+      "start": 17.14,
+      "end": 17.6
+    },
+    {
+      "text": "left",
+      "start": 17.6,
+      "end": 18.06
+    },
+    {
+      "text": "me",
+      "start": 18.06,
+      "end": 18.29
+    },
+    {
+      "text": "a",
+      "start": 18.29,
+      "end": 18.4
+    },
+    {
+      "text": "matcha",
+      "start": 18.4,
+      "end": 19.09
+    },
+    {
+      "text": "tea.",
+      "start": 19.09,
+      "end": 19.84
+    },
+    {
+      "text": "If",
+      "start": 19.84,
+      "end": 19.98
+    },
+    {
+      "text": "she",
+      "start": 19.98,
+      "end": 20.19
+    },
+    {
+      "text": "wasn't",
+      "start": 20.19,
+      "end": 20.6
+    },
+    {
+      "text": "or",
+      "start": 20.73,
+      "end": 20.75
+    },
+    {
+      "text": "had",
+      "start": 20.75,
+      "end": 20.96
+    },
+    {
+      "text": "to",
+      "start": 20.96,
+      "end": 21.09
+    },
+    {
+      "text": "rush",
+      "start": 21.09,
+      "end": 21.38
+    },
+    {
+      "text": "out",
+      "start": 21.38,
+      "end": 21.59
+    },
+    {
+      "text": "the",
+      "start": 21.59,
+      "end": 21.79
+    },
+    {
+      "text": "door,",
+      "start": 21.81,
+      "end": 22.16
+    },
+    {
+      "text": "I'll",
+      "start": 22.16,
+      "end": 22.36
+    },
+    {
+      "text": "go",
+      "start": 22.36,
+      "end": 22.46
+    },
+    {
+      "text": "make",
+      "start": 22.46,
+      "end": 22.67
+    },
+    {
+      "text": "that",
+      "start": 22.67,
+      "end": 22.87
+    },
+    {
+      "text": "tea",
+      "start": 22.88,
+      "end": 23.03
+    },
+    {
+      "text": "while",
+      "start": 23.03,
+      "end": 23.29
+    },
+    {
+      "text": "the",
+      "start": 23.29,
+      "end": 23.44
+    },
+    {
+      "text": "water's",
+      "start": 23.44,
+      "end": 23.8
+    },
+    {
+      "text": "boiling.",
+      "start": 23.8,
+      "end": 24.38
+    },
+    {
+      "text": "I'll",
+      "start": 24.38,
+      "end": 24.88
+    },
+    {
+      "text": "go",
+      "start": 24.88,
+      "end": 25.13
+    },
+    {
+      "text": "probably",
+      "start": 25.13,
+      "end": 26.15
+    },
+    {
+      "text": "do",
+      "start": 26.15,
+      "end": 26.4
+    },
+    {
+      "text": "eight",
+      "start": 26.4,
+      "end": 27.04
+    },
+    {
+      "text": "pieces",
+      "start": 27.04,
+      "end": 27.84
+    },
+    {
+      "text": "of",
+      "start": 27.84,
+      "end": 28.16
+    },
+    {
+      "text": "a",
+      "start": 28.16,
+      "end": 28.32
+    },
+    {
+      "text": "puzzle,",
+      "start": 28.32,
+      "end": 29.6
+    },
+    {
+      "text": "which",
+      "start": 29.6,
+      "end": 29.76
+    },
+    {
+      "text": "is",
+      "start": 29.76,
+      "end": 29.88
+    },
+    {
+      "text": "a",
+      "start": 29.88,
+      "end": 29.94
+    },
+    {
+      "text": "wonderful",
+      "start": 29.94,
+      "end": 30.47
+    },
+    {
+      "text": "way.",
+      "start": 30.47,
+      "end": 30.84
+    },
+    {
+      "text": "I",
+      "start": 30.84,
+      "end": 30.92
+    },
+    {
+      "text": "love",
+      "start": 30.92,
+      "end": 31.25
+    },
+    {
+      "text": "starting",
+      "start": 31.25,
+      "end": 31.91
+    },
+    {
+      "text": "my",
+      "start": 31.91,
+      "end": 32.07
+    },
+    {
+      "text": "day",
+      "start": 32.07,
+      "end": 32.32
+    },
+    {
+      "text": "on",
+      "start": 32.32,
+      "end": 32.48
+    },
+    {
+      "text": "that",
+      "start": 32.48,
+      "end": 32.81
+    },
+    {
+      "text": "slow,",
+      "start": 32.81,
+      "end": 33.3
+    },
+    {
+      "text": "simple",
+      "start": 33.3,
+      "end": 33.84
+    },
+    {
+      "text": "eight",
+      "start": 33.84,
+      "end": 35.04
+    },
+    {
+      "text": "little",
+      "start": 35.04,
+      "end": 35.68
+    },
+    {
+      "text": "connections.",
+      "start": 35.68,
+      "end": 36.15
+    }
+  ]
+}
