@@ -209,6 +209,10 @@ export type StyleGraphics = {
   particles: boolean;
   maxParticles: number;
   vignette: boolean;
+  glassBackdrop?: boolean;
+  audioBars?: boolean;
+  shockwaves?: boolean;
+  cornerDots?: boolean;
 };
 
 export type StyleTokens = {

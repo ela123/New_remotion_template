@@ -1,4 +1,5 @@
 import React from "react";
+import { interpolate, spring } from "remotion";
 import type { Quality, StyleTokens } from "../types";
 import { MotionGraphics } from "./MotionGraphics";
 import { WordLayer } from "./WordLayer";
@@ -32,11 +33,16 @@ export const CaptionBlock: React.FC<CaptionBlockProps> = ({
   // Don't render before startFrame or after endFrame (plus slight margin)
   if (frame < startFrame - 4 || frame > endFrame + 4) return null;
 
-  // Slow camera push-in (1.00 to 1.06) across the whole chunk duration
+  // Fluid camera push-in with spring punch on chunk entrance
   const chunkDuration = Math.max(1, endFrame - startFrame);
   const chunkProgress = clamp01((frame - startFrame) / chunkDuration);
-  const textCameraScale = 1.0 + 0.06 * chunkProgress;
-  const graphicsCameraScale = 1.0 + 0.03 * chunkProgress; // Small parallax!
+  const enterSpring = spring({
+    frame: Math.max(0, frame - startFrame),
+    fps,
+    config: { damping: 15, stiffness: 120 },
+  });
+  const textCameraScale = interpolate(enterSpring, [0, 1], [0.94, 1.0]) * (1.0 + 0.05 * chunkProgress);
+  const graphicsCameraScale = interpolate(enterSpring, [0, 1], [0.96, 1.0]) * (1.0 + 0.025 * chunkProgress);
 
   // Chunk Exit Animation (8 to 12 frames, default 10 frames)
   const exitFrames = 10;

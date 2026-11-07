@@ -70,6 +70,9 @@ function inferRole(wordText: string, indexInLine: number, totalInLine: number): 
   return "normal";
 }
 
+const HERO_EFFECTS = ["highlight-wipe", "glow-pulse", "impact-punch", "color-flash"];
+const ACCENT_EFFECTS = ["underline-draw", "squiggle-draw", "underline-draw"];
+
 function cuesToDoc(cues: AnnotatedCue[], maxWordsPerLine = 5, maxLinesPerChunk = 3): CaptionsDoc {
   const chunks: ChunkData[] = [];
 
@@ -85,12 +88,18 @@ function cuesToDoc(cues: AnnotatedCue[], maxWordsPerLine = 5, maxLinesPerChunk =
       const rw = rawWords[i];
       if (!rw) continue;
       const role = inferRole(rw.text, currentLineWords.length, wordsPerLine);
+      const effect =
+        role === "hero"
+          ? (HERO_EFFECTS[i % HERO_EFFECTS.length] ?? "highlight-wipe")
+          : role === "accent"
+            ? (ACCENT_EFFECTS[i % ACCENT_EFFECTS.length] ?? "underline-draw")
+            : "none";
       currentLineWords.push({
         text: rw.text,
         start: rw.startMs / 1000,
         end: rw.endMs / 1000,
         role,
-        effect: role === "hero" ? "highlight-wipe" : role === "accent" ? "underline-draw" : "none",
+        effect,
       });
 
       if (currentLineWords.length >= wordsPerLine || i === rawWords.length - 1) {
@@ -160,6 +169,17 @@ const Captions: React.FC<CaptionProps> = ({
   return (
     <AbsoluteFill style={{ overflow: "hidden", backgroundColor: "#000000" }}>
       <Background quality={quality} hasProxy={hasProxy} videoSrc={videoSrc} />
+
+      {/* Subtle Cinematic Ambient Lighting Pool (improves mobile contrast on any background video) */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          background: "radial-gradient(ellipse at center 52%, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.15) 50%, rgba(0,0,0,0.6) 100%)",
+          pointerEvents: "none",
+          zIndex: 1,
+        }}
+      />
 
       {chunkLayouts
         ? chunkLayouts.map((layout, i) => {

@@ -82,10 +82,10 @@ export type LayoutOptions = {
 };
 
 const DEFAULT_ROLE_TYPOGRAPHY: Record<WordRole, { family: FontFamily; weight: number; scale: number; uppercase: boolean; trackingEm: number; color: string; opacity?: number; fontStyle?: "normal" | "italic" }> = {
-  hero: { family: "Anton", weight: 700, scale: 2.0, uppercase: true, trackingEm: 0.02, color: "#FFE600" },
-  accent: { family: "Montserrat", weight: 700, scale: 1.35, uppercase: true, trackingEm: 0.04, color: "#FFFFFF" },
-  normal: { family: "Inter", weight: 500, scale: 1.0, uppercase: false, trackingEm: 0, color: "#FFFFFF" },
-  connector: { family: "Inter", weight: 300, scale: 0.65, uppercase: false, trackingEm: 0.15, color: "#94A3B8", opacity: 0.8 },
+  hero: { family: "Anton", weight: 400, scale: 2.2, uppercase: true, trackingEm: 0.02, color: "#FFE600" },
+  accent: { family: "Montserrat", weight: 800, scale: 1.4, uppercase: true, trackingEm: 0.04, color: "#FFFFFF" },
+  normal: { family: "Poppins", weight: 600, scale: 1.0, uppercase: false, trackingEm: 0.01, color: "#FFFFFF" },
+  connector: { family: "Poppins", weight: 500, scale: 0.72, uppercase: false, trackingEm: 0.08, color: "#CBD5E1", opacity: 0.85 },
 };
 
 export function computeChunkLayout(
